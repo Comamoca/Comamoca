@@ -26,7 +26,7 @@
 
 
 # Hi, my name is Coma. 👋
-# Welcome to Coma profele!☕
+# Welcome to Coma profile!☕
 
 
 ## ⚙Development Environment
@@ -39,36 +39,6 @@
 - [Neovim](https://github.com/neovim/neovim)
 - [Python Neovim cliant](https://github.com/neovim/pynvim)
 - [Go](https://github.com/golang/go)
-" Change denite default options
-call "#option('default', {
-    'split': 'floating',
-    'winwidth': float2nr(&columns * s:denite_win_width_percent),
-    'wincol': float2nr((&columns - (&columns * s:denite_win_width_percent)) / 2),
-    'winheight': float2nr(&lines * s:denite_win_height_percent),
-    'winrow': float2nr((&lines - (&lines * s:denite_win_height_percent)) / 2),
-    })
-
-" Define mappings
-autocmd FileType denite call s:denite_my_settings()
-function! s:denite_my_settings() abort
-  nnoremap <silent><buffer><expr> <CR>
-   denite#do_map('do_action')
-  nnoremap <silent><buffer><expr> d
-   denite#do_map('do_action', 'delete')
-  nnoremap <silent><buffer><expr> p
-   denite#do_map('do_action', 'preview')
-  nnoremap <silent><buffer><expr> q
-   denite#do_map('quit')
-  nnoremap <silent><buffer><expr> i
-   denite#do_map('open_filter_buffer')
-  nnoremap <silent><buffer><expr> <Space>
-   denite#do_map('toggle_select').'j'
-endfunction
-
-" フィルタバッファで <CR> すると候補を実行する
-    inoremap <silent><buffer> <CR> <Esc>
-       :call denite#move_to_parent()<CR>
-       <CR>
 - [Rust](https://github.com/rust-lang/rust)
 
 ## 🔭 I’m currently working on ... 
@@ -85,7 +55,7 @@ endfunction
 I'm a high school student and I'm developing a plugin for Vim.
 I am also a member of a group called [Ablaze](https://github.com/Ablaze-MIRAI).
 
-I love [Anime]() and [hololive]()!
+I love [Anime](./about_anime.md) and [hololive]()!
 
 
 ## 📫 How to reach me ...
