@@ -58,8 +58,7 @@ I love [Anime](./about_anime.md) and [hololive]()!
 
 ## 📫 How to reach me ...
 
-- [Twitter](https://twitter.com/comacoma_san)
-- [email](amagaeru.dev@gmail.com)
+- [Twitter](https://twitter.com/comacoma_san) Direct Mail
 
 
 ## ⚡ Fun fact ... 
