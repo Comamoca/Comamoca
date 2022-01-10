@@ -29,7 +29,7 @@
 
 ## ⚙Development Environment
 
-- Manjaro Linux (LXDE)
+- Manjaro Linux (i3wm)
 - [Neovim](https://github.com/neovim/neovim)
 
 ## 🌱 I’m currently learning ...
