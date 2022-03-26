@@ -2,7 +2,7 @@
   <a href="https://github.com/Comamoca/yutkat/">
     <img src="https://komarev.com/ghpvc/?username=Comamoca" alt="yutkat" />
   </a>
-  <a href="http://twitter.com/comacoma_san">
+  <a href="http://twitter.com/Comamoca_">
     <img height="20" src="https://img.shields.io/twitter/follow/comacoma_san?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/Comamoca">
