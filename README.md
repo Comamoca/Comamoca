@@ -31,14 +31,16 @@
 ## ⚙Development Environment
 
 - Manjaro Linux (i3wm)
-- [Neovim](https://github.com/neovim/neovim)
+- [Neovim 🇳](https://github.com/neovim/neovim)
 
 ## 🌱 I’m currently learning ...
 
-- [Neovim](https://github.com/neovim/neovim)
-- [Python Neovim cliant](https://github.com/neovim/pynvim)
-- [Go](https://github.com/golang/go)
-- [Rust](https://github.com/rust-lang/rust)
+- [Neovim 🇳](https://github.com/neovim/neovim)
+- [Python Neovim cliant 🐍](https://github.com/neovim/pynvim)
+- [Nim 👑](https://nim-lang.org/)
+- [Lua 🌕](https://www.lua.org/)
+- [Go 💨](https://github.com/golang/go)
+- [Rust ⚙️](https://github.com/rust-lang/rust)
 
 ## 🔭 I’m currently working on ... 
 
