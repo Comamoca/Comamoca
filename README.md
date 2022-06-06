@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=Comamoca" alt="Comamoca" />
   </a>
   <a href="http://twitter.com/Comamoca_">
-    <img height="20" src="https://img.shields.io/twitter/follow/comacoma_san?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/Comamoca_?style=social)](https://twitter.com/Comamcoa_)" />
   </a>
   <a href="https://github.com/Comamoca">
     <img height="20" src="https://img.shields.io/github/followers/Comamoca?label=follow&logo=github&style=flat" />
