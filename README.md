@@ -1,28 +1,22 @@
 <p align="left"> 
   <a href="https://github.com/Comamoca/">
-    <img src="https://komarev.com/ghpvc/?username=Comamoca" alt="Comamoca" />
+    <img src="https://komarev.com/ghpvc/?username=Comamoca&style=flat-square" alt="Comamoca" />
   </a>
-<<<<<<< HEAD
-=======
   <a href="http://twitter.com/Comamoca_">
-    <img height="20" src="https://img.shields.io/twitter/follow/Comamoca_?style=social)](https://twitter.com/Comamcoa_)" />
+    <img height="20" src="https://img.shields.io/twitter/follow/Comamoca_?style=flat-square" />
   </a>
->>>>>>> 2c09f6641bdc529944f2363604f562de57117c33
   <a href="https://github.com/Comamoca">
-    <img height="20" src="https://img.shields.io/github/followers/Comamoca?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/Comamoca?label=follow&logo=github&style=flat-square" />
   </a>
   <a href="https://www.reddit.com/user/Comamoca">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/Comamoca?label=Reddit&logo=reddit&style=flat" />
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/Comamoca?label=Reddit&logo=reddit&style=flat-square" />
   </a>
-  <a href="http://qiita.com/Comamoca">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Comamoca/posts.svg" />
-  </a>
-  <//qiita.com/Comamoca">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Comamoca/contributions.svg" />
-  </a>
-<a href="http://twitter.com/Comamoca_">
-<img height="20" src="https://img.shields.io/twitter/follow/comacoma_san?label=Twitter&logo=twitter&style=flat" />
-</a>
+  <!-- <a href="http://qiita.com/Comamoca"> -->
+  <!--   <img height="20" src="https://qiita-badge.apiapi.app/s/Comamoca/posts.svg" /> -->
+  <!-- </a> -->
+  <!-- <//qiita.com/Comamoca"> -->
+  <!--   <img height="20" src="https://qiita-badge.apiapi.app/s/Comamoca/contributions.svg" /> -->
+  <!-- </a> -->
 </p>
 
 
