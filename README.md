@@ -2,9 +2,6 @@
   <a href="https://github.com/Comamoca/yutkat/">
     <img src="https://komarev.com/ghpvc/?username=Comamoca" alt="yutkat" />
   </a>
-  <a href="http://twitter.com/Comamoca_">
-    <img height="20" src="https://img.shields.io/twitter/follow/comacoma_san?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/Comamoca">
     <img height="20" src="https://img.shields.io/github/followers/Comamoca?label=follow&logo=github&style=flat" />
   </a>
@@ -17,18 +14,25 @@
   <//qiita.com/Comamoca">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Comamoca/contributions.svg" />
   </a>
+<a href="http://twitter.com/Comamoca_">
+<img height="20" src="https://img.shields.io/twitter/follow/comacoma_san?label=Twitter&logo=twitter&style=flat" />
+</a>
 </p>
 
-[![Comamoca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Comamoca)](https://github.com/Comamoca/github-readme-stats)
-![Works on My Machine](./imgs/6a0120a85dcdae970b0128776ff992970c-pi.png)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-# Welcome to Coma profile!☕
+<p align="left" style="display:inline-block;">
+<img src="https://github-readme-stats.vercel.app/api?username=Comamoca" />
+</p>
 
 
-## ⚙Development Environment
+<!-- <div style="text-align: center;"> -->
+
+
+
+# Welcome to Coma profile! 🦊
+
+
+## 🛠️ Development Environment
 
 - Manjaro Linux (i3wm)
 - [Neovim](https://github.com/neovim/neovim)
@@ -46,7 +50,17 @@
 
 ## 👯 I’m looking to collaborate on ...
 
-- Not yet...
+- [freasearcher](https://github.com/Ablaze-MIRAI/freasearcher)
+
+[![Ablaze-MIRAI/freasearcher - GitHub](https://gh-card.dev/repos/Ablaze-MIRAI/freasearcher.svg?fullname=)](https://github.com/Ablaze-MIRAI/freasearcher)
+
+- [MarkDrip](https://github.com/Comamoca/MarkDrip)
+
+[![Comamoca/MarkDrip - GitHub](https://gh-card.dev/repos/Comamoca/MarkDrip.svg?fullname=)](https://github.com/Comamoca/MarkDrip)
+
+- [mncrp/monot](https://github.com/mncrp/monot)
+
+[![mncrp/monot - GitHub](https://gh-card.dev/repos/mncrp/monot.svg?fullname=)](https://github.com/mncrp/monot)
 
 
 ## 💬 Ask me about ...
@@ -81,3 +95,4 @@ And as for sweets, I like macaroons and monaka.
 <!-- - 📫 How to reach me ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+<!-- </div> -->
