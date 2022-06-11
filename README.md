@@ -17,8 +17,31 @@
   <!-- <//qiita.com/Comamoca"> -->
   <!--   <img height="20" src="https://qiita-badge.apiapi.app/s/Comamoca/contributions.svg" /> -->
   <!-- </a> -->
-</p>
 
+ <!-- Like のバッジ -->
+  <a href="https://zenn.dev/comamoca">
+    <img src="https://zenn.badge.nikaera.com/s/comamoca/likes?style=flat-square" alt="comamoca likes" />
+  </a>
+
+  <!-- Articles のバッジ -->
+  <a href="https://zenn.dev/comamoca/articles">
+    <img src="https://zenn.badge.nikaera.com/s/comamoca/articles?style=flat-square" alt="comamoca articles" />
+  </a>
+
+  <!-- Followers のバッジ -->
+  <a href="https://zenn.dev/comamoca/followers">
+    <img src="https://zenn.badge.nikaera.com/s/comamoca/followers?style=flat-square" alt="comamoca followers" />
+  </a>
+
+  <!-- Books のバッジ -->
+  <a href="https://zenn.dev/comamoca/books">
+    <img src="https://zenn.badge.nikaera.com/s/comamoca/books?style=flat-square" alt="comamoca books" />
+  </a>
+
+  <!-- Scraps のバッジ -->
+  <a href="https://zenn.dev/comamoca/scraps">
+    <img src="https://zenn.badge.nikaera.com/s/comamoca/scraps?style=flat-square" alt="comamoca scraps" />
+  </a>
 
 <p align="left" style="display:inline-block;">
 <img src="https://github-readme-stats.vercel.app/api?username=Comamoca" />
