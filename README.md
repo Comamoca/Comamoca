@@ -42,6 +42,9 @@
   <a href="https://zenn.dev/comamoca/scraps">
     <img src="https://zenn.badge.nikaera.com/s/comamoca/scraps?style=flat-square" alt="comamoca scraps" />
   </a>
+  <a href="https://wakatime.com/@aff9e362-de3f-4144-af42-7988698ddf15">
+  <img src="https://wakatime.com/badge/user/aff9e362-de3f-4144-af42-7988698ddf15.svg?style=flat-square" alt="Total time coded since Oct 28 2021" />
+  </a>
 
 <p align="left" style="display:inline-block;">
 <img src="https://github-readme-stats.vercel.app/api?username=Comamoca" />
