@@ -82,15 +82,6 @@
 
 [![Ablaze-MIRAI/freasearcher - GitHub](https://gh-card.dev/repos/Ablaze-MIRAI/freasearcher.svg?fullname=)](https://github.com/Ablaze-MIRAI/freasearcher)
 
-- [MarkDrip](https://github.com/Comamoca/MarkDrip)
-
-[![Comamoca/MarkDrip - GitHub](https://gh-card.dev/repos/Comamoca/MarkDrip.svg?fullname=)](https://github.com/Comamoca/MarkDrip)
-
-- [mncrp/monot](https://github.com/mncrp/monot)
-
-[![mncrp/monot - GitHub](https://gh-card.dev/repos/mncrp/monot.svg?fullname=)](https://github.com/mncrp/monot)
-
-
 ## 💬 Ask me about ...
 
 I'm a high school student and I'm developing a plugin for Vim.
