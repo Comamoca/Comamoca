@@ -87,7 +87,9 @@
 I'm a high school student and I'm developing a plugin for Vim.
 I am also a member of a group called [Ablaze](https://github.com/Ablaze-MIRAI).
 
-I love [Anime](./articles/about_anime.md) and [hololive](./articles/hololive.md)!(Written in Japanese)
+I love [Anime](./articles/about_anime.md) and Vtubers!
+
+and my [portfolio](https://comamoca.notion.site/My-Portfolio-tentative-67e7628ab5304caca1df0f6d77ce8af7)...
 
 
 ## 📫 How to reach me ...
