@@ -20,27 +20,27 @@
 
  <!-- Like のバッジ -->
   <a href="https://zenn.dev/comamoca">
-    <img src="https://zenn.badge.nikaera.com/s/comamoca/likes?style=flat-square" alt="comamoca likes" />
+    <img src="https://zenn-badge.deno.dev/api/comamoca/like" alt="comamoca likes" />
   </a>
 
   <!-- Articles のバッジ -->
   <a href="https://zenn.dev/comamoca/articles">
-    <img src="https://zenn.badge.nikaera.com/s/comamoca/articles?style=flat-square" alt="comamoca articles" />
+    <img src="https://zenn-badge.deno.dev/api/comamoca/articles" alt="comamoca articles" />
   </a>
 
   <!-- Followers のバッジ -->
-  <a href="https://zenn.dev/comamoca/followers">
-    <img src="https://zenn.badge.nikaera.com/s/comamoca/followers?style=flat-square" alt="comamoca followers" />
+  <a href="https://zenn.dev/comamoca">
+    <img src="https://zenn-badge.deno.dev/api/comamoca/followings" alt="comamoca followers" />
   </a>
 
   <!-- Books のバッジ -->
   <a href="https://zenn.dev/comamoca/books">
-    <img src="https://zenn.badge.nikaera.com/s/comamoca/books?style=flat-square" alt="comamoca books" />
+    <img src="https://zenn-badge.deno.dev/api/comamoca/books" alt="comamoca books" />
   </a>
 
   <!-- Scraps のバッジ -->
   <a href="https://zenn.dev/comamoca/scraps">
-    <img src="https://zenn.badge.nikaera.com/s/comamoca/scraps?style=flat-square" alt="comamoca scraps" />
+    <img src="https://zenn-badge.deno.dev/api/comamoca/scraps" alt="comamoca scraps" />
   </a>
   <a href="https://wakatime.com/@aff9e362-de3f-4144-af42-7988698ddf15">
   <img src="https://wakatime.com/badge/user/aff9e362-de3f-4144-af42-7988698ddf15.svg?style=flat-square" alt="Total time coded since Oct 28 2021" />
