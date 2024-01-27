@@ -59,31 +59,22 @@ This is my profile!
 ### Editor
 
 <a href="https://www.vim.org/">
-  <img alt="Vim Logo" src="https://img.shields.io/badge/Vim-_?style=for-the-badge&logo=Vim&logoColor=%23019331&labelColor=%23555555&color=%23019331">
+  <img alt="Vim Logo" src="https://img.shields.io/badge/Vim- ?style=for-the-badge&logo=Vim&logoColor=%23019331&labelColor=%23555555&color=%23019331">
 </a>
 
 <a href="https://neovim.io/">
-  <img alt="Neovim Logo" src="https://img.shields.io/badge/Neovim-_?style=for-the-badge&logo=Neovim&logoColor=%237eb863&labelColor=%23555555&color=%237eb863">
+  <img alt="Neovim Logo" src="https://img.shields.io/badge/Neovim- ?style=for-the-badge&logo=Neovim&logoColor=%237eb863&labelColor=%23555555&color=%237eb863">
 </a>
-
 
 ### OS
 
 <a href="https://manjaro.org/">
-<img alt="Manjaro Logo" src="https://img.shields.io/badge/Manjaro-_?style=for-the-badge&logo=Manjaro&logoColor=%2335bfa4&labelColor=%23555555&color=%2335bfa4">
+<img alt="Manjaro Logo" src="https://img.shields.io/badge/Manjaro- ?style=for-the-badge&logo=Manjaro&logoColor=%2335bfa4&labelColor=%23555555&color=%2335bfa4">
 </a>
 
 <a href="https://www.microsoft.com/windows/">
-  <img alt="Windows Logo" src="https://img.shields.io/badge/Windows-_?style=for-the-badge&logo=windows11&logoColor=%2300a8e8&color=%23555555">
+  <img alt="Windows Logo" src="https://img.shields.io/badge/Windows- ?style=for-the-badge&logo=windows11&logoColor=%2300a8e8&color=%23555555">
 </a>
-
-
-
-
-
-<a href="">
-</a>
-
 
 ## Skills
 
@@ -95,15 +86,14 @@ This is my profile!
 ## Links
 
 <a href="https://bsky.app/profile/comamoca.dev">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-_?style=flat-square&logo=bluesky&color=%23555555">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky- ?style=flat-square&logo=bluesky&color=%23555555">
 </a>
 <a href="https://vrchat.com/home/user/usr_695212b9-72ea-4503-8109-47eb12d02a5d">
-  <img alt="Static Badge" src="https://img.shields.io/badge/VRChat-_?style=flat-square&color=%23555555">
+  <img alt="Static Badge" src="https://img.shields.io/badge/VRChat- ?style=flat-square&color=%23555555">
 </a>
 
 <a href="https://discord.com/users/comamoca">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Discord-_?style=flat-square&logo=discord&color=%23555555">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Discord- ?style=flat-square&logo=discord&color=%23555555">
 </a>
-
 
 </div>
