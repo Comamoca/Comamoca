@@ -93,7 +93,7 @@ This is my profile!
 ## Hobbies
 
 🍳 Cooking **|**
-🚴 Cycring **|**
+🚴 Cycling **|**
 ⛺ Camping
 
 ## Links
