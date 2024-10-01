@@ -96,10 +96,6 @@ This is my profile!
 🚴 Cycring **|**
 ⛺ Camping
 
-## More
-
-[❯ IDOLM@STER](./articles/imas.md)
-
 ## Links
 
 <a href="https://bsky.app/profile/comamoca.dev">
