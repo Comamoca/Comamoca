@@ -58,6 +58,10 @@ This is my profile!
 
 ### Editor
 
+<a href="https://www.gnu.org/software/emacs/">
+  <img alt="Emacs Logo" src="https://img.shields.io/badge/emacs-logo?style=for-the-badge&logo=gnuemacs&labelColor=555555&color=7F5AB6">
+</a>
+
 <a href="https://www.vim.org/">
   <img alt="Vim Logo" src="https://img.shields.io/badge/Vim- ?style=for-the-badge&logo=Vim&logoColor=%23019331&labelColor=%23555555&color=%23019331">
 </a>
