@@ -45,8 +45,6 @@
 
 This is my profile!
 
-<img src="https://kusa-image.deno.dev/?user=comamoca">
-
 <br>
 <br>
 
